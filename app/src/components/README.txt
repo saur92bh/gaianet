@@ -1,0 +1,1 @@
+This folder contains UI components for the trading bot.
